@@ -70,3 +70,4 @@ public class Main {
         scanner.close();
     }
 }
+// Изменение от 05.10.2024
